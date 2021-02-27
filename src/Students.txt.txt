@@ -1,0 +1,3 @@
+id	name	major
+1	Essa	BIT
+2	Jobair	IT
